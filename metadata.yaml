@@ -29,6 +29,8 @@ language: nl
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'De complete werken van Joost van Vondel
 
   Met eene voorrede van H.J. Allard, leraar aan ''t seminarie
